@@ -17,9 +17,8 @@ I'm a passionate developer with a love for coding and solving complex problems. 
 
 Here are a few projects I've worked on:
 
-- [Project 1](https://github.com/forscy/project1): A brief description of what this project does.
-- [Project 2](https://github.com/forscy/project2): A brief description of what this project does.
-- [Project 3](https://github.com/forscy/project3): A brief description of what this project does.
+- [Jaya Junior Tools Apps (Still On Progress)](https://github.com/forscy/jayajuniortools): The online shop project is built using TypeScript, Express & React.
+- [SIPTA](https://github.com/sipta-jtk/sipta): The Sistem Informasi Pengelolaan Tugas Akhir (SIPTA) project is built using PHP Laravel.
 
 ## GitHub Stats
 
